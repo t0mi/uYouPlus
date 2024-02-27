@@ -1,21 +1,21 @@
 // About
-"ABOUT" = "About";
+"ABOUT" = "Über";
 
 "VERSION" = "uYouPlus-Version: %@";
 "VERSION_CHECK" = "Tippen, um nach Updates zu suchen!";
 
-"REPORT_AN_ISSUE" = "Report an issue";
-"ADD_TITLE" = "Add your title here...";
+"REPORT_AN_ISSUE" = "Ein Problem melden";
+"ADD_TITLE" = "Fügen hier deinen Titel hinzu...";
 
-"QUIT_YOUTUBE" = "Quit YouTube";
+"QUIT_YOUTUBE" = "YouTube beenden";
 
-"RESTART_YOUTUBE" = "Restart YouTube to apply changes";
+"RESTART_YOUTUBE" = "Starte YouTube neu, um die Änderungen zu übernehmen.";
 
 // App appearance
-"APP_THEME" = "🎨 App appearance";
-"THEME_OPTIONS" = "Theme Optionen";
+"APP_THEME" = "🎨 App-Erscheinungsbild";
+"THEME_OPTIONS" = "Themenoptionen";
 
-"DARK_THEME" = "Dark theme";
+"DARK_THEME" = "Dunkler Modus";
 
 "DEFAULT_THEME" = "Standard";
 "DEFAULT_THEME_DESC" = "Standardmäßig dunklerer Modus von YouTube. App-Neustart erforderlich.";
@@ -25,7 +25,7 @@
 
 "OLED_DARK_THEME" = "OLED-Dunkelmodus (Experimentell)";
 "OLED_DARK_THEME_2" = "OLED-Dunkelmodus";
-"OLED_DARK_THEME_DESC" = "Echter dunkler Modus. Könnte in einigen Fällen nicht richtig funktionieren. App-Neustart erforderlich nachdem Sie diese Option aktiviert/deaktiviert haben.";
+"OLED_DARK_THEME_DESC" = "Echter dunkler Modus. Könnte in einigen Fällen nicht richtig funktionieren. App-Neustart erforderlich nachdem du diese Option aktiviert/deaktiviert hast.";
 
 "OLED_KEYBOARD" = "OLED-Tastatur (Experimentell)";
 "OLED_KEYBOARD_DESC" = "Könnte in manchen Fällen nicht richtig funktionieren. App-Neustart erforderlich!";
